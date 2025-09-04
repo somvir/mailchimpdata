@@ -1,6 +1,6 @@
 run commands
 
-composer install
+composer install 
 php artisan migrate
 
 url for uploading file =>  /upload
